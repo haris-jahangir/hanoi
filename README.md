@@ -5,7 +5,7 @@ A browser version of the classic Tower of Hanoi puzzle, by **Haris Jahangir**.
 Move the whole stack of disks over to Tower 3 — one disk at a time, and never a
 larger disk onto a smaller one.
 
-**▶ [Play it here](https://KibroPixen.github.io/tower-of-hanoi/)**
+**▶ [Play it here](https://haris-jahangir.github.io/hanoi/)**
 
 ## Features
 
